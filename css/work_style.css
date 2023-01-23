@@ -1,0 +1,115 @@
+/* Author: arJun
+Date:18/01/2023 */
+.container {
+    margin: 0;
+    background-color: #ddd;
+    border-top: 4px solid #f00;
+    font-family: "Poppins", sans-serif;
+}
+
+.task1 {
+    /* background-color: rgb(57, 80, 80); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+    height: auto;
+    /* padding: 30px; */
+}
+.task2 {
+    /* background-color: rgb(68, 189, 189); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+}
+.task3 {
+    /* background-color: rgb(78, 88, 141); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+}
+.task4 {
+    /* background-color: rgb(141, 47, 153); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+}
+.task5 {
+    /* background-color: rgb(27, 97, 65); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+}
+.task6 {
+    /* background-color: rgb(119, 24, 32); */
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* width: 100%; */
+    display: flex;
+    min-width: 0;
+    flex-wrap: wrap;
+    color: #fff;
+    border-bottom: 5px solid rgb(57, 80, 80);
+}
+/* .img-div {
+    margin: auto;
+} */
+.img {
+    width: 550px;
+    margin: 20px 10px;
+
+    /* margin: auto; */
+}
+.img-1 {
+    width: 600px;
+    margin: 0 0px 50px 30px;
+}
+h1 {
+    margin-bottom: 0;
+}
+.t2-h1,
+.t2-p1 {
+    color: #000;
+}
+.t1-h1,
+.t1-p1 {
+    text-align: end;
+    color: #000;
+}
+.t1-txt {
+    width: 630px;
+}
+.t2-txt {
+    width: 500px;
+    padding: 10px;
+}

@@ -1,0 +1,235 @@
+/* Author: arJun
+Date:16/01/2023 */
+.container {
+    margin: 20px;
+    background-color: #ddd;
+    border-top: 4px solid #f00;
+    font-family: "Poppins", sans-serif;
+}
+.header {
+    margin-top: 30px;
+    display: flex;
+    font-size: small;
+}
+.left-side {
+    width: 500px;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: flex-end;
+}
+.pro-pic {
+    width: 250px;
+}
+.right-side {
+    /* background-color: blueviolet; */
+    width: 800px;
+    min-width: 0;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+.red {
+    color: #f00;
+    text-transform: uppercase;
+}
+.name {
+    margin-bottom: 0;
+}
+.sub-name {
+    margin-top: 0;
+}
+.my-details {
+    margin-top: 10px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.my-details p {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.main-body {
+    font-size: small;
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+.body-left {
+    width: 460px;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: flex-end;
+    /* padding-right: 30px; */
+    /* margin-right: 40px; */
+}
+.body-left p {
+    text-transform: uppercase;
+}
+.body-right {
+    display: flex;
+    gap: 30px;
+    width: 800px;
+    min-width: 0;
+    /* background-color: blue; */
+    margin-top: 13px;
+    /* margin-left: 30px; */
+}
+.body-right p,
+.body-right-2 p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.right-box {
+    width: 180px;
+}
+.body-right-2 {
+    display: flex;
+    gap: 55px;
+    width: 800px;
+    min-width: 0;
+    /* background-color: blue; */
+    margin-top: 13px;
+    /* margin-left: 30px; */
+    position: relative;
+}
+.right-box-2 {
+    width: 360px;
+    margin: 0 0 0 40;
+}
+.html {
+    width: 70%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.css {
+    width: 75%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.php {
+    width: 60%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.js {
+    width: 50%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.ps {
+    width: 90%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.illu {
+    width: 80%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.sketch {
+    width: 60%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.premire {
+    width: 90%;
+    border-bottom: 1px solid #f00;
+    position: relative;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.percentage {
+    width: 30px;
+    position: absolute;
+    right: -30px;
+    background-color: rgb(39, 33, 33);
+    color: #fff;
+    font-size: small;
+    text-align: center;
+    font-size: smaller;
+}
+.mkt-profile {
+    display: flex;
+}
+.mkt-profile-img {
+    width: 20px;
+    margin-right: 10px;
+}
+.body-right-3 {
+    display: flex;
+    gap: 30px;
+    width: 800px;
+    min-width: 0;
+    /* background-color: blue; */
+    margin-top: 13px;
+    /* margin-left: 30px; */
+    position: relative;
+    flex: 1;
+}
+.right-box-3 {
+    width: 220px;
+    margin: 0 0 0 40;
+    /* display: flex; */
+}
+
+.rating-img {
+    width: 50px;
+    margin-right: 10px;
+}
+.red-1 {
+    color: #f00;
+}
+.body-right-form {
+    width: 800px;
+    /* background-color: aqua; */
+}
+.for-form {
+    width: 700px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: rgb(214, 209, 209);
+    border: none;
+}
+.for-form-2 {
+    width: 700px;
+    height: 150px;
+    margin-bottom: 20px;
+    background-color: rgb(214, 209, 209);
+    border: none;
+}
+.for-form-3 {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(244, 79, 24);
+    color: #fff;
+    border: none;
+}
+.my-works {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 0;
+}
+.my-works-img {
+    width: 250px;
+    height: 200px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.my-works-img:hover {
+    flex: 6;
+    width: 100%;
+}
